@@ -1,0 +1,13 @@
+The following code has been submitted with the design document 
+which covers the detailed description of data structures used 
+in the code, and the attatched documentation contains detailed
+explaination of each and every function which has been used.
+
+The submission is in the ipython notebook in which each and every
+step has been computed one by one for easy visualization and understanding.
+
+For any input line use shift+return key to run the command in the 
+jupyter notebook.
+
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/
+
